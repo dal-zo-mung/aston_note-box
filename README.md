@@ -475,4 +475,4 @@ This project is a structured Telegram storage bot with:
 - clean separation of handlers, services, config, and database logic
 - Docker support for deployment
 
-At the end, users can try the bot by searching for **@Aston3_bot** on Telegram.
+At the end, users can try the bot by searching for [**_@Aston3_bot_**](https://t.me/Aston3_bot) on Telegram.
