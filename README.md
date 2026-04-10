@@ -1,4 +1,5 @@
 # Telegram Storage Bot
+Try the bot by searching for **@Aston3_bot** on Telegram.
 
 A beginner-friendly Telegram bot for saving personal text notes and media references in MongoDB Atlas.
 
